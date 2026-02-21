@@ -229,11 +229,12 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Developer
 
-**Neelesh Sachdeva**  
+**Tejas Duggal**  
 B.Tech Student | Full-Stack Developer  
 
 Submitted for Hackathon / Academic Project Review
 
 ---
+
 
 ⭐ If you like this project, consider giving it a star on GitHub!
