@@ -9,7 +9,7 @@ SecureTip is a **professional full-stack anonymous crime reporting platform** th
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo 
 > Add your deployed link here  
 Example: https://securetip.onrender.com
 
@@ -238,3 +238,4 @@ Submitted for Hackathon / Academic Project Review
 
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
